@@ -20,7 +20,7 @@ cd senpai-tasukete
 sh verify.sh <YOUR PROGRAM EXEC COMMAND>
 ```
 
-<YOUR PROGRAM EXEC COMMAND> の部分は作成したプログラムを起動するための引数を入れてください。
+`<YOUR PROGRAM EXEC COMMAND>` の部分は作成したプログラムを起動するための引数を入れてください。
 標準入力への問題の投入は verify.sh の方で行います。
 実行すると、サイトに掲載されている簡単な例と、もう少し複雑なテストケース、20000Item, 200000Itemのケースで動作検証をします。
 ただし、20000Itemと200000Itemの例の答えが合っているという保証はないので悪しからず。。（間違えがあれば教えてください）
