@@ -15,7 +15,7 @@ https://paiza.jp/poh/ec-campaign
 大体こんな感じです。
 
 ```sh
-git clone senpai-tasukete
+git clone https://github.com/mokemokechicken/senpai-tasukete.git
 cd senpai-tasukete
 sh verify.sh <YOUR PROGRAM EXEC COMMAND>
 ```
