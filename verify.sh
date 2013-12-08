@@ -2,7 +2,7 @@
 
 cd $(dirname $0)
 RUN_PG=$@
-SAMPLES="1.txt 2.txt 3.txt test.txt 20000_75.txt 200000_75.txt"
+SAMPLES="1.txt 2.txt 3.txt 4.txt test.txt 20000_75.txt 200000_75.txt 200000_75-2.txt 200000_75-3.txt"
 PREFIX_Q="example_"
 PREFIX_A="answer_"
 
